@@ -1,2 +1,2 @@
 # hello-world
-for myproject
+hi i am going to learn openshift
